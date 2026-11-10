@@ -1,0 +1,273 @@
+/* تفریح‌یاب — همه‌چیز زیر .tfy اسکوپ شده تا با قالب وودمارت و المنتور تداخل نکند. فونت وزیرمتن داخل خود افزونه است (بدون وابستگی به سرویس خارجی). */
+@font-face { font-family: 'Vazirmatn'; src: url('fonts/Vazirmatn-Variable.woff2') format('woff2'); font-weight: 100 900; font-style: normal; font-display: swap; }
+
+.tfy, .tfy * { box-sizing: border-box; }
+.tfy {
+  --c-bg: #f6f7f9; --c-card: #ffffff; --c-text: #1d2430; --c-mute: #667085; --c-line: #e4e7ec;
+  --c-accent: #0f766e; --c-accent-d: #0b5d57; --c-accent-s: #e6f4f2;
+  --c-warn: #b45309; --c-warn-s: #fef3c7; --c-danger: #c0392b; --c-danger-s: #fdecea;
+  --r: 14px;
+  direction: rtl; text-align: right; font-family: 'Vazirmatn', Tahoma, sans-serif; color: var(--c-text);
+  font-size: 15px; line-height: 1.7; position: relative;
+}
+.tfy button, .tfy input, .tfy select, .tfy textarea { font-family: 'Vazirmatn', Tahoma, sans-serif; font-size: 14px; letter-spacing: 0; text-transform: none; margin: 0; }
+.tfy button { cursor: pointer; }
+.tfy a { color: var(--c-accent); text-decoration: none; }
+.tfy [hidden] { display: none !important; }
+
+/* دکمه‌ها */
+.tfy .btn {
+  display: inline-flex; align-items: center; justify-content: center; gap: 6px; min-height: 40px; padding: 0 16px;
+  border: 1px solid var(--c-line); background: #fff; color: var(--c-text); border-radius: 10px; line-height: 1;
+  font-weight: 600; box-shadow: none; transition: background .15s, border-color .15s, transform .05s;
+}
+.tfy .btn:hover { background: #f2f4f7; border-color: #d0d5dd; }
+.tfy .btn:active { transform: translateY(1px); }
+.tfy .btn:disabled { opacity: .55; cursor: not-allowed; }
+.tfy .btn-primary { background: var(--c-accent); border-color: var(--c-accent); color: #fff; }
+.tfy .btn-primary:hover { background: var(--c-accent-d); border-color: var(--c-accent-d); }
+.tfy .btn-danger { color: var(--c-danger); border-color: #f1c4be; }
+.tfy .btn-danger:hover { background: var(--c-danger-s); }
+.tfy .btn-sm { min-height: 34px; padding: 0 12px; font-size: 13px; }
+.tfy .btn.on { background: var(--c-accent-s); border-color: var(--c-accent); color: var(--c-accent-d); }
+
+/* ورودی‌ها */
+.tfy .inp, .tfy select.inp, .tfy textarea.inp {
+  width: 100%; min-height: 42px; padding: 8px 12px; border: 1px solid var(--c-line); border-radius: 10px; background: #fff;
+  color: var(--c-text); box-shadow: none; outline: none; height: auto;
+}
+.tfy textarea.inp { min-height: 90px; resize: vertical; line-height: 1.7; }
+.tfy .inp:focus { border-color: var(--c-accent); box-shadow: 0 0 0 3px var(--c-accent-s); }
+.tfy label.lbl { display: block; font-size: 13px; color: var(--c-mute); margin: 0 0 4px; font-weight: 600; }
+
+/* گیت PIN */
+.tfy .gate { max-width: 360px; margin: 40px auto; background: var(--c-card); border: 1px solid var(--c-line); border-radius: var(--r); padding: 24px; box-shadow: 0 8px 30px rgba(16,24,40,.06); }
+.tfy .gate h2 { margin: 0 0 6px; font-size: 20px; }
+.tfy .gate p { margin: 0 0 14px; color: var(--c-mute); font-size: 13px; }
+.tfy .gate .inp { margin-bottom: 10px; text-align: center; letter-spacing: 2px; }
+.tfy .msg-err { color: var(--c-danger); font-size: 13px; margin: 0 0 10px; min-height: 18px; }
+
+/* نوار بالا و فیلتر */
+.tfy .top { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; justify-content: space-between; margin-bottom: 12px; }
+.tfy .top h1 { margin: 0; font-size: 22px; }
+.tfy .top .acts { display: flex; flex-wrap: wrap; gap: 8px; }
+.tfy .panel { background: var(--c-card); border: 1px solid var(--c-line); border-radius: var(--r); padding: 14px; margin-bottom: 14px; }
+.tfy .searchrow { display: flex; gap: 8px; }
+.tfy .searchrow .inp { flex: 1; }
+.tfy .filters { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 10px; margin-top: 12px; }
+.tfy .chips { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 12px; align-items: center; }
+.tfy .chips .cl { font-size: 13px; color: var(--c-mute); font-weight: 600; margin-inline-end: 4px; }
+.tfy .chip {
+  min-height: 34px; padding: 0 12px; border-radius: 999px; border: 1px solid var(--c-line); background: #fff;
+  color: var(--c-text); font-size: 13px; line-height: 1; box-shadow: none;
+}
+.tfy .chip:hover { border-color: #c5ccd6; }
+.tfy .chip.on { background: var(--c-accent); border-color: var(--c-accent); color: #fff; }
+.tfy .meta { display: flex; justify-content: space-between; align-items: center; margin-top: 12px; font-size: 13px; color: var(--c-mute); gap: 10px; flex-wrap: wrap; }
+.tfy .linkbtn { background: none; border: 0; color: var(--c-accent); padding: 0; font-weight: 600; }
+.tfy .filtertoggle { display: none; }
+
+/* گرید کارت‌ها */
+.tfy .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 16px; }
+.tfy .card {
+  background: var(--c-card); border: 1px solid var(--c-line); border-radius: var(--r); overflow: hidden; cursor: pointer;
+  display: flex; flex-direction: column; transition: transform .15s, box-shadow .15s; content-visibility: auto; contain-intrinsic-size: 300px 340px;
+  text-align: right; padding: 0; width: 100%;
+}
+.tfy .card:hover { transform: translateY(-2px); box-shadow: 0 10px 24px rgba(16,24,40,.09); }
+.tfy .card:focus-visible { outline: 3px solid var(--c-accent-s); border-color: var(--c-accent); }
+.tfy .card .ph { position: relative; aspect-ratio: 16 / 10; background: #eef1f4; overflow: hidden; }
+.tfy .card .ph img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.tfy .card .ph .noimg { width: 100%; height: 100%; display: flex; align-items: center; justify-content: center; font-size: 38px; font-weight: 700; color: rgba(0,0,0,.28); }
+.tfy .card .badges { position: absolute; top: 8px; inset-inline-start: 8px; display: flex; gap: 6px; }
+.tfy .bdg { background: rgba(255,255,255,.95); border-radius: 999px; font-size: 12px; padding: 2px 9px; font-weight: 600; box-shadow: 0 1px 3px rgba(0,0,0,.15); }
+.tfy .bdg.fav { color: #d97706; } .tfy .bdg.done { color: var(--c-accent-d); }
+.tfy .card .body { padding: 12px 14px 14px; display: flex; flex-direction: column; gap: 8px; flex: 1; }
+.tfy .card .cat { font-size: 12px; color: var(--c-accent-d); font-weight: 700; }
+.tfy .card h3 { margin: 0; font-size: 17px; line-height: 1.5; color: var(--c-text); }
+.tfy .card .desc { margin: 0; font-size: 13px; color: var(--c-mute); display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+.tfy .tags { display: flex; flex-wrap: wrap; gap: 5px; margin-top: auto; }
+.tfy .tag { font-size: 12px; background: #f2f4f7; color: #475467; border-radius: 6px; padding: 1px 8px; }
+.tfy .tag.t-dur { background: var(--c-accent-s); color: var(--c-accent-d); }
+.tfy .tag.t-cost { background: var(--c-warn-s); color: var(--c-warn); }
+.tfy .tag.t-weak { background: #fff; border: 1px dashed #c5ccd6; }
+.tfy .empty { text-align: center; padding: 50px 10px; color: var(--c-mute); background: var(--c-card); border: 1px dashed var(--c-line); border-radius: var(--r); }
+.tfy .sentinel { height: 1px; }
+.tfy .loadmore { text-align: center; color: var(--c-mute); font-size: 13px; padding: 14px; }
+
+/* مودال */
+.tfy-ov { position: fixed; inset: 0; z-index: 99999; background: rgba(16,24,40,.55); display: flex; align-items: flex-start; justify-content: center; overflow-y: auto; padding: 24px 12px; overscroll-behavior: contain; }
+.tfy-ov .modal { background: #fff; border-radius: 16px; width: 100%; max-width: 720px; margin: auto; box-shadow: 0 24px 60px rgba(0,0,0,.3); position: relative; overflow: hidden; }
+.tfy-ov .modal.sm { max-width: 420px; }
+.tfy-ov .mh { display: flex; align-items: center; justify-content: space-between; padding: 14px 18px; border-bottom: 1px solid var(--c-line); }
+.tfy-ov .mh h2 { margin: 0; font-size: 18px; }
+.tfy-ov .x { width: 36px; height: 36px; border-radius: 50%; border: 0; background: #f2f4f7; font-size: 20px; line-height: 1; color: #475467; padding: 0; }
+.tfy-ov .x:hover { background: #e4e7ec; }
+.tfy-ov .mb { padding: 18px; }
+.tfy-ov .mf { padding: 12px 18px; border-top: 1px solid var(--c-line); display: flex; flex-wrap: wrap; gap: 8px; background: #fafbfc; }
+.tfy-ov .mf .sp { flex: 1; }
+
+/* جزئیات */
+.tfy-ov .gal { position: relative; background: #0b1220; aspect-ratio: 16 / 9; }
+.tfy-ov .gal img { width: 100%; height: 100%; object-fit: contain; display: block; }
+.tfy-ov .gal .noimg { height: 100%; display: flex; align-items: center; justify-content: center; font-size: 60px; font-weight: 700; color: rgba(0,0,0,.25); }
+.tfy-ov .gal .nav { position: absolute; top: 50%; transform: translateY(-50%); width: 38px; height: 38px; border-radius: 50%; border: 0; background: rgba(255,255,255,.9); font-size: 20px; padding: 0; }
+.tfy-ov .gal .prev { inset-inline-end: 10px; } .tfy-ov .gal .next { inset-inline-start: 10px; }
+.tfy-ov .gal .cnt { position: absolute; bottom: 8px; inset-inline-start: 10px; background: rgba(0,0,0,.6); color: #fff; font-size: 12px; padding: 1px 8px; border-radius: 999px; }
+.tfy-ov .dt h2 { margin: 0 0 4px; font-size: 22px; }
+.tfy-ov .dt .sub { color: var(--c-accent-d); font-weight: 700; font-size: 13px; margin-bottom: 10px; }
+.tfy-ov .dt p.d { margin: 10px 0 14px; white-space: pre-wrap; }
+.tfy-ov .rows { display: grid; grid-template-columns: repeat(auto-fit, minmax(210px, 1fr)); gap: 8px 16px; margin: 12px 0; }
+.tfy-ov .row { background: #f7f8fa; border-radius: 10px; padding: 8px 12px; }
+.tfy-ov .row .k { font-size: 12px; color: var(--c-mute); font-weight: 600; }
+.tfy-ov .row .v { font-size: 14px; word-break: break-word; }
+.tfy-ov .notice { font-size: 12.5px; padding: 8px 12px; border-radius: 10px; background: var(--c-warn-s); color: #7c4a03; margin: 10px 0; }
+.tfy-ov .notice.info { background: #eef4ff; color: #1e3a8a; }
+.tfy-ov .links { display: flex; flex-wrap: wrap; gap: 8px; margin: 10px 0; }
+.tfy-ov .src { font-size: 12px; color: var(--c-mute); word-break: break-all; }
+.tfy-ov .pnbar { display: flex; justify-content: space-between; align-items: center; gap: 8px; padding: 8px 18px; border-bottom: 1px solid var(--c-line); font-size: 13px; color: var(--c-mute); }
+.tfy-ov .rndbar { display: flex; justify-content: space-between; align-items: center; gap: 8px; padding: 10px 18px; background: var(--c-accent-s); color: var(--c-accent-d); font-weight: 600; font-size: 13px; }
+
+/* فرم */
+.tfy-ov .fgrid { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+.tfy-ov .fgrid .full { grid-column: 1 / -1; }
+.tfy-ov .imgs { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 8px; }
+.tfy-ov .imgs .im { position: relative; width: 92px; height: 70px; border-radius: 8px; overflow: hidden; border: 2px solid var(--c-line); background: #eee; }
+.tfy-ov .imgs .im.cover { border-color: var(--c-accent); }
+.tfy-ov .imgs .im img { width: 100%; height: 100%; object-fit: cover; }
+.tfy-ov .imgs .im button { position: absolute; bottom: 2px; font-size: 11px; padding: 1px 6px; border: 0; border-radius: 6px; background: rgba(0,0,0,.65); color: #fff; line-height: 1.4; }
+.tfy-ov .imgs .im .rm { top: 2px; bottom: auto; inset-inline-end: 2px; }
+.tfy-ov .imgs .im .mc { inset-inline-start: 2px; }
+.tfy-ov .chips { display: flex; flex-wrap: wrap; gap: 6px; }
+.tfy-ov .chip { min-height: 34px; padding: 0 12px; border-radius: 999px; border: 1px solid var(--c-line); background: #fff; color: var(--c-text); font-size: 13px; line-height: 1; }
+.tfy-ov .chip.on { background: var(--c-accent); border-color: var(--c-accent); color: #fff; }
+.tfy-ov .hint { font-size: 12px; color: var(--c-mute); margin-top: 4px; }
+.tfy-ov .prog { height: 8px; background: #eef1f4; border-radius: 99px; overflow: hidden; margin: 12px 0; }
+.tfy-ov .prog i { display: block; height: 100%; width: 0; background: var(--c-accent); transition: width .2s; }
+.tfy-ov .log { max-height: 160px; overflow: auto; font-size: 12px; color: var(--c-mute); background: #f7f8fa; border-radius: 8px; padding: 8px 10px; white-space: pre-wrap; }
+
+/* توست */
+.tfy-toast { position: fixed; bottom: 20px; inset-inline: 0; margin: auto; width: fit-content; max-width: 90vw; z-index: 100000; background: #101828; color: #fff; padding: 10px 18px; border-radius: 10px; font-size: 14px; box-shadow: 0 8px 24px rgba(0,0,0,.3); direction: rtl; font-family: inherit; }
+html.tfy-lock, html.tfy-lock body { overflow: hidden; }
+
+@media (max-width: 640px) {
+  .tfy .filtertoggle { display: inline-flex; }
+  .tfy .fwrap { display: none; }
+  .tfy .fwrap.open { display: block; }
+  .tfy .grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px; }
+  .tfy .card h3 { font-size: 15px; }
+  .tfy .card .body { padding: 10px; gap: 6px; }
+  .tfy .card .desc { font-size: 12px; }
+  .tfy .card .tags { gap: 4px; }
+  .tfy .card .tag { font-size: 11px; padding: 0 6px; }
+  .tfy-ov { padding: 0; }
+  .tfy-ov .modal { border-radius: 0; min-height: 100vh; }
+  .tfy-ov .modal.sm { min-height: 0; margin: auto 12px; border-radius: 16px; }
+  .tfy-ov .fgrid { grid-template-columns: 1fr; }
+}
+@media (prefers-reduced-motion: reduce) { .tfy .card, .tfy .btn { transition: none; } }
+
+/* هزینه‌ها، منو، تفریحات تکمیلی */
+.tfy-ov .costs { margin: 12px 0; display: flex; flex-direction: column; gap: 10px; }
+.tfy-ov .cbt { font-size: 13px; font-weight: 700; color: var(--c-accent-d); margin: 6px 0 4px; }
+.tfy-ov .cr { display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 10px; padding: 6px 12px; background: #f7f8fa; border-radius: 10px; margin-bottom: 4px; }
+.tfy-ov .cr .cl2 { flex: 1 1 140px; font-size: 14px; }
+.tfy-ov .cr .cp { font-weight: 700; font-size: 14px; white-space: nowrap; }
+.tfy-ov .cr .cp.free { color: var(--c-accent-d); }
+.tfy-ov .cr .cn { flex-basis: 100%; font-size: 12px; color: var(--c-mute); }
+.tfy-ov details.menu { background: #fff; border: 1px solid var(--c-line); border-radius: 10px; padding: 8px 12px; }
+.tfy-ov details.menu summary { cursor: pointer; font-weight: 700; font-size: 14px; }
+.tfy-ov .rel { margin: 12px 0; }
+.tfy-ov .chip.rl { border-color: var(--c-accent); color: var(--c-accent-d); background: var(--c-accent-s); }
+.tfy-ov .chip.rl.dis { border-style: dashed; border-color: #c5ccd6; color: var(--c-mute); background: #fff; display: inline-flex; align-items: center; }
+/* فرم داخل پنل مدیریت */
+.tfy-ov.inl { position: static; display: block; background: none; padding: 0; overflow: visible; }
+.tfy-ov.inl .modal { max-width: none; box-shadow: none; border: 1px solid var(--c-line); }
+
+/* مدیریت کارت‌ها در تنظیمات */
+.tfy .macts { white-space: nowrap; }
+.tfy .macts .btn { margin-inline-end: 4px; }
+.tfy table.widefat td, .tfy table.widefat th { text-align: start; vertical-align: middle; padding: 8px; }
+
+.tfy-toast { font-family: 'Vazirmatn', Tahoma, sans-serif !important; }
+.tfy *, .tfy-admin, .tfy-admin * { font-family: 'Vazirmatn', Tahoma, sans-serif; }
+
+/* ---------- تب‌ها ---------- */
+.tfy .tabs { display: flex; gap: 4px; margin: 4px 0 16px; padding: 4px; background: #eceff3; border-radius: 14px; }
+.tfy .tab { flex: 1 1 0; min-width: 0; border: 0; background: transparent; padding: 10px 8px; border-radius: 10px; font-weight: 700; font-size: 14px; color: var(--c-mute); line-height: 1.3; box-shadow: none; transition: background .15s, color .15s; }
+.tfy .tab:hover { color: var(--c-text); background: rgba(255,255,255,.5); }
+.tfy .tab.on { background: #fff; color: var(--c-accent-d); box-shadow: 0 1px 3px rgba(16,24,40,.12); }
+
+/* ---------- نقشه ---------- */
+.tfy .maptools { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; margin-bottom: 10px; }
+.tfy .maptools .inp { width: auto; min-width: 160px; flex: 1 1 160px; max-width: 260px; }
+.tfy .maptools .btn .ico { width: 18px; height: 18px; background: currentColor; -webkit-mask: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'><path d='M12 8a4 4 0 100 8 4 4 0 000-8zm8.9 3A9 9 0 0013 3.1V1h-2v2.1A9 9 0 003.1 11H1v2h2.1A9 9 0 0011 20.9V23h2v-2.1A9 9 0 0020.9 13H23v-2h-2.1zM12 19a7 7 0 110-14 7 7 0 010 14z'/></svg>") center/contain no-repeat; mask: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'><path d='M12 8a4 4 0 100 8 4 4 0 000-8zm8.9 3A9 9 0 0013 3.1V1h-2v2.1A9 9 0 003.1 11H1v2h2.1A9 9 0 0011 20.9V23h2v-2.1A9 9 0 0020.9 13H23v-2h-2.1zM12 19a7 7 0 110-14 7 7 0 010 14z'/></svg>") center/contain no-repeat; }
+.tfy .maptools .btn { gap: 8px; }
+.tfy .mapstat { color: var(--c-mute); font-size: 13px; margin-bottom: 8px; }
+.tfy .menote { background: #eff6ff; color: #1e40af; border: 1px solid #bfdbfe; border-radius: 12px; padding: 8px 12px; font-size: 13px; margin-bottom: 10px; line-height: 1.8; }
+.tfy .mapbox { height: 68vh; min-height: 380px; border: 1px solid var(--c-line); border-radius: 18px; overflow: hidden; z-index: 0; position: relative; box-shadow: 0 6px 20px rgba(16,24,40,.08); }
+.tfy .mappop { font-family: 'Vazirmatn', Tahoma, sans-serif; display: flex; flex-direction: column; gap: 6px; min-width: 150px; text-align: right; }
+.tfy .mappop strong { font-size: 14px; }
+.tfy .mapsub { color: var(--c-mute); font-size: 12px; }
+.tfy .leaflet-container { font-family: 'Vazirmatn', Tahoma, sans-serif; }
+.tfy .marker-cluster-small, .tfy .marker-cluster-medium, .tfy .marker-cluster-large { background-color: rgba(15,118,110,.25); }
+.tfy .marker-cluster-small div, .tfy .marker-cluster-medium div, .tfy .marker-cluster-large div { background-color: rgba(15,118,110,.85); color: #fff; font-weight: 700; }
+
+/* ---------- موبایل: دو ستون کارت‌ها (مثل نسخه‌ی اول) ---------- */
+@media (max-width: 700px) {
+  .tfy .grid { grid-template-columns: repeat(2, minmax(0, 1fr)) !important; gap: 10px !important; }
+  .tfy .grid .card { min-width: 0; }
+  .tfy .tab { font-size: 13px; padding: 9px 4px; }
+  .tfy .mapbox { height: 62vh; border-radius: 14px; }
+  .tfy .maptools .inp { max-width: none; }
+}
+
+
+.tfy-ov .qa { margin: 14px 0; padding: 12px; border: 1px solid var(--c-line); border-radius: 12px; background: #f7f9ff; position: relative; }
+.tfy-ov .qa-row { display: flex; gap: 8px; margin: 8px 0; }
+.tfy-ov .qa-row .inp { flex: 1; min-width: 0; }
+.tfy-ov .qa-out { margin-top: 10px; padding: 10px 12px; border-radius: 10px; background: #fff; border: 1px solid var(--c-line); white-space: pre-wrap; line-height: 1.9; }
+.tfy-ov .qa-out.err { background: #fff1f0; border-color: #f3b4ae; }
+.tfy-ov .qa-out.ok { border-color: #b7dfc3; }
+.tfy-ov .pickmap { height: 320px; margin: 8px 0; border-radius: 12px; overflow: hidden; border: 1px solid var(--c-line); }
+.tfy-ov .picker .inp { direction: ltr; text-align: left; }
+
+.tfy .wbar { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin: 8px 0; padding: 8px 12px; border-radius: 12px; background: #eef6ff; border: 1px solid #cfe1fb; font-size: 14px; }
+.tfy .wbar.wet { background: #eef2ff; border-color: #c7d2fe; }
+.tfy .sbanner { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; margin: 8px 0; padding: 8px 12px; border-radius: 12px; background: #fff8ec; border: 1px solid #f3d9a4; font-size: 14px; }
+.tfy .ph { position: relative; }
+.tfy .heart { position: absolute; top: 8px; inset-inline-start: 8px; width: 34px; height: 34px; border-radius: 50%; border: 0; background: rgba(255,255,255,.92); font-size: 20px; line-height: 1; cursor: pointer; color: #6b7280; box-shadow: 0 1px 4px rgba(0,0,0,.15); }
+.tfy .heart.on { color: #e11d48; }
+.tfy .tag.t-open { background: #e6f6ec; color: #17653a; }
+.tfy-ov .tag.t-feat { background: #eef2ff; color: #3730a3; }
+.tfy-ov .openb { display: inline-block; margin: 6px 0; padding: 4px 12px; border-radius: 999px; font-size: 13px; }
+.tfy-ov .openb.yes { background: #e6f6ec; color: #17653a; }
+.tfy-ov .openb.no { background: #fdecea; color: #a11d1d; }
+.tfy-ov .ppl { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin: 10px 0; padding: 8px 12px; background: #f7f9ff; border: 1px solid var(--c-line); border-radius: 12px; }
+.tfy-ov .ppl .pn { min-width: 20px; text-align: center; font-weight: 700; }
+.tfy-ov .links.usr { margin-top: 10px; }
+.tfy-ov .btn.on { background: #fff1f2; border-color: #fda4af; }
+.tfy-ov .myrow { display: flex; gap: 8px; align-items: center; padding: 8px 0; border-bottom: 1px dashed var(--c-line); }
+.tfy-ov .myrow .mn { flex: 1; min-width: 0; font-weight: 600; }
+.tfy-ov .myrow .ms { color: #6b7280; font-size: 13px; }
+.tfy-ov .wcard { display: flex; gap: 10px; padding: 10px 0; border-bottom: 1px dashed var(--c-line); }
+.tfy-ov .wcard img { width: 84px; height: 84px; object-fit: cover; border-radius: 10px; flex: none; }
+.tfy-ov .wcard .wb { flex: 1; min-width: 0; }
+.tfy-ov .wroute { padding: 10px 12px; border-radius: 12px; background: var(--c-accent-s); color: var(--c-accent-d); margin: 10px 0 4px; }
+.tfy-ov .wcard .wstory { font-size: 13px; color: #344054; line-height: 1.9; margin-bottom: 6px; }
+.tfy-ov .wcard .wn { font-weight: 700; margin-bottom: 4px; }
+.tfy-ov .chk { display: inline-flex; gap: 6px; align-items: center; margin-inline-end: 12px; }
+.tfy-ov .pstop { padding: 10px 12px; border: 1px solid var(--c-line); border-radius: 12px; background: #fff; }
+.tfy-ov .pstop.warn { border-color: #f3b4ae; background: #fff7f6; }
+.tfy-ov .pstop .pt { font-weight: 700; color: #1e40af; }
+.tfy-ov .pstop .ps { display: block; color: #6b7280; font-size: 13px; }
+.tfy-ov .pstop .pw { color: #a11d1d; font-size: 13px; margin-top: 4px; }
+.tfy-ov .ptravel { text-align: center; color: #6b7280; font-size: 12px; padding: 4px 0; }
+.tfy-ov .psum { margin-top: 12px; padding: 10px 12px; background: #f7f9ff; border-radius: 12px; font-size: 14px; }
+@media (max-width: 700px) { .tfy .acts { flex-wrap: wrap; } }
+
+.tfy .bdg.miss { background: #fef3c7; color: #92400e; }
+.tfy-ov .missbox { margin: 12px 0; padding: 10px 12px; border: 1px solid #f3d9a4; background: #fff8ec; border-radius: 12px; }
+.tfy-ov .missbox.ok { border-color: #bbf7d0; background: #f0fdf4; color: #166534; font-weight: 600; }
+.tfy-ov .missbox ul { margin: 6px 0 10px; padding-inline-start: 20px; font-size: 13.5px; line-height: 1.9; color: #344054; }
+.tfy-ov .missbox li.imp { color: #92400e; font-weight: 700; }

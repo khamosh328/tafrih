@@ -1,0 +1,3474 @@
+[
+ {
+  "name": "دربند",
+  "category": "طبیعت",
+  "row": 1,
+  "location": "https://nshn.ir/28_bvADYIxiyMs",
+  "duration_h": 3,
+  "times": [
+   "صبح",
+   "شب"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "مسیر کوهستانی بسیار محبوب، مناسب برای پیاده‌روی، صرف صبحانه و استفاده از تله‌سیژ."
+ },
+ {
+  "name": "دارآباد باغ وحش",
+  "category": "طبیعت",
+  "row": 2,
+  "location": "https://nshn.ir/71_bvWqoWxpEIo",
+  "duration_h": 3,
+  "times": [
+   "عصر"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "شامل مسیر پیاده‌روی و کوه‌پیمایی در دامنه کوه و بازدید از باغ وحش کوچک محلی."
+ },
+ {
+  "name": "درکه",
+  "category": "طبیعت",
+  "row": 3,
+  "location": "https://nshn.ir/26_bvfVLexOPRr",
+  "duration_h": 3,
+  "times": [
+   "صبح",
+   "آخر هفته"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "مسیر کوه‌نوردی و پیاده‌روی طولانی‌تر و نسبتاً چالش‌برانگیزتر نسبت به دربند."
+ },
+ {
+  "name": "فشم",
+  "category": "طبیعت",
+  "row": 4,
+  "location": "https://nshn.ir/a8_bvLxwWx9RWB",
+  "duration_h": 12,
+  "times": [
+   "صبح"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "لواسان",
+  "description": "منطقه خوش آب و هوا در لواسان، معروف به رستوران‌های کنار رودخانه و طبیعت بکر."
+ },
+ {
+  "name": "دره فرحزاد",
+  "category": "طبیعت",
+  "row": 5,
+  "location": "https://nshn.ir/ce_bvQY9yxMjR-",
+  "duration_h": 6,
+  "times": [
+   "صبح"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "مسیری آرام و نسبتاً خلوت برای پیاده‌روی در طبیعت با حس و حال روستایی."
+ },
+ {
+  "name": "پارک جنگلی لویزان",
+  "category": "طبیعت",
+  "row": 5,
+  "location": "https://nshn.ir/fa_bvrzdPxThB3",
+  "duration_h": 6,
+  "times": [
+   "صبح",
+   "عصر"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "یکی از بزرگترین پارک‌های جنگلی تهران، مناسب پیک‌نیک و موتورسواری تفریحی."
+ },
+ {
+  "name": "دره ولنجک",
+  "category": "طبیعت",
+  "row": 6,
+  "location": "https://nshn.ir/cd_bvA3kYxO0i7",
+  "duration_h": 6,
+  "times": [
+   "صبح"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "منطقه طبیعی برای پیاده‌روی و کوه‌پیمایی، نزدیک به بام تهران و توچال."
+ },
+ {
+  "name": "باغ گیاه شناسی",
+  "category": "طبیعت",
+  "row": 7,
+  "location": "https://nshn.ir/62_bvZYkNxGWsy",
+  "duration_h": 3,
+  "times": [
+   "عصر"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "یک باغ بزرگ با گونه‌های گیاهی متنوع از سراسر جهان، محیطی علمی و آرامش‌بخش."
+ },
+ {
+  "name": "تلسیژ دربند",
+  "category": "طبیعت",
+  "row": 8,
+  "location": "https://nshn.ir/28_bvADYIxiyMs",
+  "duration_h": 3,
+  "times": [
+   "صبح",
+   "شب"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "استفاده از تلسیژ برای صعود و فرود آسان در مسیر کوهستانی دربند."
+ },
+ {
+  "name": "دریاچه چیتگر",
+  "category": "طبیعت",
+  "row": 9,
+  "location": "https://nshn.ir/ae_bvo4ZpxjIij",
+  "duration_h": 3,
+  "times": [
+   "عصر"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "یک دریاچه مصنوعی بزرگ، مناسب برای قایق‌سواری، پیاده‌روی و دوچرخه‌سواری دور دریاچه."
+ },
+ {
+  "name": "پارک چیتگر",
+  "category": "طبیعت",
+  "row": 10,
+  "location": "https://nshn.ir/27_bvXP8Ixdcol",
+  "duration_h": 3,
+  "times": [
+   "صبح",
+   "عصر"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "پارکی بزرگ با مسیرهای طولانی برای دوچرخه‌سواری، پیاده‌روی و ورزش‌های دسته‌جمعی."
+ },
+ {
+  "name": "سرخه حصار",
+  "category": "طبیعت",
+  "row": 11,
+  "location": "https://nshn.ir/8f_bvkL-OxTfL5",
+  "duration_h": 3,
+  "times": [
+   "صبح",
+   "عصر"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "یکی از قدیمی‌ترین پارک‌های ملی ایران، مناسب برای پیک‌نیک، پیاده‌روی و تماشای حیات وحش."
+ },
+ {
+  "name": "شیان",
+  "category": "طبیعت",
+  "row": 12,
+  "location": "https://nshn.ir/b9_bvrr9OxpABw",
+  "duration_h": 3,
+  "times": [
+   "عصر"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "منطقه‌ای مرتفع با ویوی زیبا از تهران، مناسب برای تفریح عصرگاهی و صرف شام."
+ },
+ {
+  "name": "توچال",
+  "category": "طبیعت",
+  "row": 13,
+  "location": "https://nshn.ir/a4_bvWlEexO9dc",
+  "duration_h": 3,
+  "times": [
+   "صبح",
+   "شب"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "مجموعه تفریحی ورزشی شامل تله‌کابین، پیست اسکی و مسیرهای کوه‌نوردی."
+ },
+ {
+  "name": "پارک پردیسان",
+  "category": "پارک",
+  "row": 13,
+  "location": "https://nshn.ir/37_bvoouWx4HmG",
+  "duration_h": 3,
+  "times": [
+   "صبح",
+   "عصر"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "موزه حیات وحش، مسیرهای پیاده‌روی و فضایی آرام."
+ },
+ {
+  "name": "کلکچال",
+  "category": "طبیعت",
+  "row": 14,
+  "location": "https://nshn.ir/12_bvAOT5xRSNB",
+  "duration_h": 3,
+  "times": [
+   "صبح",
+   "ظهر"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "یکی از قله‌های نزدیک تهران، مسیر کوه‌پیمایی محبوب با پناهگاه در میانه راه."
+ },
+ {
+  "name": "سوهانک",
+  "category": "طبیعت",
+  "row": 15,
+  "location": "https://nshn.ir/21_bvfHs0xz5FD",
+  "duration_h": 3,
+  "times": [
+   "صبح",
+   "عصر"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "منطقه‌ای کوهستانی با مناظر شهری، مناسب برای پیاده‌روی و لذت بردن از هوای پاک."
+ },
+ {
+  "name": "کوهسار",
+  "category": "طبیعت",
+  "row": 16,
+  "location": "https://nshn.ir/20_bvQEb_xVD5x",
+  "duration_h": 3,
+  "times": [
+   "عصر",
+   "شب"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "پارک جنگلی و بام تهران در غرب، ایده‌آل برای پیک‌نیک و تماشای غروب خورشید."
+ },
+ {
+  "name": "فرحزاد",
+  "category": "طبیعت",
+  "row": 16,
+  "location": "https://nshn.ir/16_bvQWt_xMRY-",
+  "duration_h": 3,
+  "times": [
+   "عصر",
+   "شب"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "منطقه تفریحی با رستوران‌ها و قهوه‌خانه‌های سنتی در کنار رودخانه."
+ },
+ {
+  "name": "بام سعادت آباد",
+  "category": "طبیعت",
+  "row": 17,
+  "location": "https://nshn.ir/fd_bv1VnYx4_AL",
+  "duration_h": 3,
+  "times": [
+   "عصر"
+  ],
+  "modes": [
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "یکی از بام‌های تهران، با ویوی گسترده از شهر و مناسب برای شب‌نشینی."
+ },
+ {
+  "name": "بام نیاوران بوکان",
+  "category": "طبیعت",
+  "row": 18,
+  "location": "https://nshn.ir/b2_bvLiz0xur-w",
+  "duration_h": 3,
+  "times": [
+   "شب"
+  ],
+  "modes": [
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "منطقه‌ای مرتفع و دنج برای تماشای چراغ‌های شهر تهران در شب."
+ },
+ {
+  "name": "بام دارآباد",
+  "category": "طبیعت",
+  "row": 19,
+  "location": "https://nshn.ir/ab_bvA5uNxpSK-",
+  "duration_h": 3,
+  "times": [
+   "شب"
+  ],
+  "modes": [
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "یک نقطه مرتفع برای دیدن مناظر شهری و کوهستانی، اغلب در شب جذاب‌تر است."
+ },
+ {
+  "name": "بوستان ولایت",
+  "category": "پارک",
+  "row": 19,
+  "location": "https://nshn.ir/92_bvYefPx4Klw",
+  "duration_h": 3,
+  "times": [
+   "صبح",
+   "عصر"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "پارک بزرگ با امکانات تفریحی، از جمله پیست موتورسواری بانوان."
+ },
+ {
+  "name": "بام سوهانک",
+  "category": "طبیعت",
+  "row": 20,
+  "location": "https://nshn.ir/3b_bvfiMQxTuuf",
+  "duration_h": 3,
+  "times": [
+   "شب"
+  ],
+  "modes": [
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "منطقه‌ای کوهستانی و مرتفع با ویوی خوب از شمال و شرق تهران."
+ },
+ {
+  "name": "بام لواسان",
+  "category": "طبیعت",
+  "row": 21,
+  "location": "https://nshn.ir/13_bvCYYOxaSQg",
+  "duration_h": 3,
+  "times": [
+   "شب"
+  ],
+  "modes": [
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "لواسان",
+  "description": "چشم‌اندازی زیبا از لواسان و سد لتیان، مکانی عالی برای عکاسی و دورهمی شبانه."
+ },
+ {
+  "name": "بام اقدسیه",
+  "category": "طبیعت",
+  "row": 22,
+  "location": "https://nshn.ir/_bv1DfVxpexk",
+  "duration_h": 3,
+  "times": [
+   "شب"
+  ],
+  "modes": [
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "یکی از بام‌های لوکس و دنج تهران با منظره‌ای متفاوت از شهر."
+ },
+ {
+  "name": "بام فرحزاد",
+  "category": "طبیعت",
+  "row": 23,
+  "location": "https://nshn.ir/_bvQpnpxMMlv",
+  "duration_h": 3,
+  "times": [
+   "شب"
+  ],
+  "modes": [
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "منطقه‌ای شناخته‌شده برای کافه‌ها و رستوران‌های سنتی با ویوی شبانه."
+ },
+ {
+  "name": "باغ لاله‌ها",
+  "category": "پارک",
+  "row": 24,
+  "location": "https://nshn.ir/e1_bvsAx0xOA4c",
+  "duration_h": 1,
+  "times": [
+   "عصر"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "پارکی فصلی که در بهار با انواع گل‌های لاله شکوفا می‌شود، برای عکاسی و تفریح کوتاه."
+ },
+ {
+  "name": "پل طبیعت",
+  "category": "پارک",
+  "row": 25,
+  "location": "https://nshn.ir/09_bvSI4GxiAX-",
+  "duration_h": 1,
+  "times": [
+   "شب"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "پلی مدرن برای عابران پیاده، محلی عالی برای پیاده‌روی و تماشای مناظر شهری به ویژه در شب."
+ },
+ {
+  "name": "پارک ملت",
+  "category": "پارک",
+  "row": 26,
+  "location": "https://nshn.ir/97_bv7oC0xiZuB",
+  "duration_h": 3,
+  "times": [
+   "عصر"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "یکی از بزرگترین و قدیمی‌ترین پارک‌های تهران، دارای دریاچه، آلاچیق و فضای سبز گسترده."
+ },
+ {
+  "name": "آبشار تهران",
+  "category": "پارک",
+  "row": 27,
+  "location": "https://nshn.ir/6b_bvrl2exjnl2",
+  "duration_h": 3,
+  "times": [
+   "صبح",
+   "عصر"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "مجموعه‌ای پلکانی از آبشارها و فضای سبز شبیه به یک دهکده کوهستانی."
+ },
+ {
+  "name": "پارک لاله",
+  "category": "پارک",
+  "row": 28,
+  "location": "https://nshn.ir/8c_bvHedPxOWpj",
+  "duration_h": 1,
+  "times": [
+   "عصر",
+   "شب"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "پارکی قدیمی و بزرگ، مرکز اجتماعات هنری و محلی مناسب برای استراحت و پیک‌نیک."
+ },
+ {
+  "name": "بلوار کشاورز",
+  "category": "پارک",
+  "row": 29,
+  "location": "https://nshn.ir/_bvPVc2xOBcn",
+  "duration_h": 1,
+  "times": [
+   "عصر",
+   "شب"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "یک بلوار قدیمی با درختان چنار زیبا و فضایی برای پیاده‌روی عصرگاهی."
+ },
+ {
+  "name": "دریاچه هنر",
+  "category": "پارک",
+  "row": 30,
+  "location": "https://nshn.ir/91_bvSro_xiDCi",
+  "duration_h": 3,
+  "times": [
+   "عصر"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "یک محوطه کوچک و دنج در مجموعه عباس‌آباد، با فضاهای هنری و دریاچه."
+ },
+ {
+  "name": "پارک نیاوران",
+  "category": "پارک",
+  "row": 31,
+  "location": "https://nshn.ir/23_bvfDMPxRxl4",
+  "duration_h": 3,
+  "times": [
+   "شب"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "پارکی با فضای سبز زیبا و محوطه تاریخی کاخ نیاوران، مناسب شب‌نشینی."
+ },
+ {
+  "name": "کاخ نیاوران",
+  "category": "پارک",
+  "row": 32,
+  "location": "https://nshn.ir/33_bvW5KVxRJLg",
+  "duration_h": 3,
+  "times": [
+   "ظهر"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "بازدید از مجموعه‌ای از کاخ‌ها و موزه‌های سلطنتی با تاریخ معاصر."
+ },
+ {
+  "name": "پارک پلیس",
+  "category": "پارک",
+  "row": 33,
+  "location": "https://nshn.ir/3d_bvS9CGxzejM",
+  "duration_h": 3,
+  "times": [
+   "عصر",
+   "شب"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "پارکی در شرق تهران، دارای امکانات ورزشی و تفریحی با فضای جنگلی."
+ },
+ {
+  "name": "پارک پرواز",
+  "category": "پارک",
+  "row": 34,
+  "location": "https://nshn.ir/a2_bvvbf2x4gIs",
+  "duration_h": 3,
+  "times": [
+   "عصر",
+   "شب"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "پارکی مرتفع با ویوی عالی از غرب تهران و شهرک غرب."
+ },
+ {
+  "name": "پل معلق تهران بوستان نهج البلاغه",
+  "category": "پارک",
+  "row": 35,
+  "location": "https://nshn.ir/_bvoGZOxMJSS",
+  "duration_h": 3,
+  "times": [
+   "ظهر",
+   "شب"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "پلی هیجان‌انگیز برای عابران پیاده در ارتفاع، بخشی از پارک نهج‌البلاغه."
+ },
+ {
+  "name": "باغ پرندگان",
+  "category": "پارک",
+  "row": 36,
+  "location": "https://nshn.ir/99_bvsIiexTabX",
+  "duration_h": 3,
+  "times": [
+   "عصر"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "مجموعه‌ای از گونه‌های مختلف پرندگان در فضایی شبیه جنگل‌های طبیعی."
+ },
+ {
+  "name": "پارک جمشیدیه",
+  "category": "پارک",
+  "row": 37,
+  "location": "https://nshn.ir/12_bvAOT5xRSNB",
+  "duration_h": 3,
+  "times": [
+   "عصر",
+   "شب"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "پارکی کوهستانی با پله‌های زیاد، مناسب پیاده‌روی و تماشای مناظر شهری در ارتفاع."
+ },
+ {
+  "name": "کاخ سعدآباد",
+  "category": "پارک",
+  "row": 38,
+  "location": "https://nshn.ir/bd_bvWU0pxiiMK",
+  "duration_h": 3,
+  "times": [
+   "عصر"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "یک مجموعه بزرگ تاریخی شامل چندین کاخ و موزه با فضای سبز وسیع."
+ },
+ {
+  "name": "باغ راه فدک",
+  "category": "پارک",
+  "row": 39,
+  "location": "https://nshn.ir/0b_bvSANVxOY7g",
+  "duration_h": 3,
+  "times": [
+   "صبح",
+   "عصر"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "یک فضای سبز خطی و طولانی، مناسب برای دوچرخه‌سواری و پیاده‌روی."
+ },
+ {
+  "name": "ماهیگیری تهرانپارس",
+  "category": "پارک",
+  "row": 40,
+  "location": "",
+  "duration_h": 6,
+  "times": [
+   "صبح"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "محلی برای تمرین و تفریح ماهیگیری در تهران."
+ },
+ {
+  "name": "سوارکاری تهرانپارس",
+  "category": "پارک",
+  "row": 41,
+  "location": "",
+  "duration_h": 6,
+  "times": [
+   "ظهر"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "مرکزی برای آموزش سوارکاری و تفریح با اسب."
+ },
+ {
+  "name": "خانه هنرمندان",
+  "category": "پارک",
+  "row": 42,
+  "location": "https://nshn.ir/c5_bvP0hGxiJZw",
+  "duration_h": 1,
+  "times": [
+   "عصر",
+   "شب"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "مرکزی فرهنگی و هنری، شامل گالری‌ها، کافه و کتابفروشی."
+ },
+ {
+  "name": "بام رسالت",
+  "category": "پارک",
+  "row": 43,
+  "location": "https://nshn.ir/_bvohgyxie61",
+  "duration_h": 3,
+  "times": [
+   "عصر",
+   "شب"
+  ],
+  "modes": [
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "نقطه‌ای مرتفع در شرق تهران، با ویوی مناسب شبانه."
+ },
+ {
+  "name": "بوستان نهج البلاغه",
+  "category": "پارک",
+  "row": 44,
+  "location": "https://nshn.ir/9e_bv2QnOxMdao",
+  "duration_h": 3,
+  "times": [
+   "ظهر",
+   "عصر"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "پارکی بزرگ و طولی در دو فاز، دارای امکانات تفریحی متعدد مانند بانجی جامپینگ و پل معلق."
+ },
+ {
+  "name": "سوهانک",
+  "category": "پارک",
+  "row": 45,
+  "location": "https://nshn.ir/21_bvfHs0xz5FD",
+  "duration_h": 6,
+  "times": [
+   "صبح",
+   "ظهر"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "منطقه‌ای کوهستانی با دسترسی به طبیعت، مناسب برای کوه‌پیمایی‌های کوتاه."
+ },
+ {
+  "name": "شهربازی ارم",
+  "category": "بازی",
+  "row": 46,
+  "location": "https://nshn.ir/c2_bvX11yxVWGb",
+  "duration_h": 3,
+  "times": [
+   "عصر"
+  ],
+  "modes": [
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "یکی از قدیمی‌ترین و بزرگترین شهربازی‌های تهران با انواع بازی‌های هیجان‌انگیز."
+ },
+ {
+  "name": "گرید بازی اپال",
+  "category": "بازی",
+  "row": 47,
+  "location": "https://nshn.ir/90_bv7hqQxMNTh",
+  "duration_h": 3,
+  "times": [
+   "عصر"
+  ],
+  "modes": [
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "یک مرکز بازی‌های واقعیت مجازی، گیمیفیکیشن و سرگرمی‌های نوین در مرکز خرید اپال."
+ },
+ {
+  "name": "ادونچ پارک نیکولو",
+  "category": "بازی",
+  "row": 48,
+  "location": "https://nshn.ir/21_bvSJ_QxiKJX",
+  "duration_h": 3,
+  "times": [
+   "عصر"
+  ],
+  "modes": [
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "مجموعه تفریحات هیجان‌انگیز و ماجراجویانه مانند طناب‌کشی و پرش از ارتفاع."
+ },
+ {
+  "name": "تئاتر",
+  "category": "بازی",
+  "row": 49,
+  "location": "",
+  "duration_h": 3,
+  "times": [
+   "عصر",
+   "شب"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "تماشای نمایش‌های مختلف، از درام تا کمدی، در سالن‌های حرفه‌ای."
+ },
+ {
+  "name": "وی آر پارک آرژانتین",
+  "category": "بازی",
+  "row": 50,
+  "location": "https://nshn.ir/de_bv_IDOxiC_p",
+  "duration_h": 3,
+  "times": [
+   "عصر",
+   "شب"
+  ],
+  "modes": [
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "مرکزی تخصصی برای بازی‌های واقعیت مجازی (VR) و شبیه‌سازی‌های هیجان‌انگیز."
+ },
+ {
+  "name": "شهربازی میلاد",
+  "category": "بازی",
+  "row": 51,
+  "location": "https://nshn.ir/5c_bvoVQQx4T1r",
+  "duration_h": 3,
+  "times": [
+   "عصر",
+   "شب"
+  ],
+  "modes": [
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "شهربازی سرپوشیده و مدرن با بازی‌های متنوع در طبقات برج میلاد."
+ },
+ {
+  "name": "اقیانوس پارک آب و آتش",
+  "category": "بازی",
+  "row": 52,
+  "location": "https://nshn.ir/b5_bvSuXGxiAQV",
+  "duration_h": 3,
+  "times": [
+   "عصر",
+   "شب"
+  ],
+  "modes": [
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "مرکز سرگرمی‌های آبی و تفریحی با فواره‌های بزرگ و فضای بازی کودکان."
+ },
+ {
+  "name": "خانه ترس لواسان",
+  "category": "بازی",
+  "row": 53,
+  "location": "",
+  "duration_h": 3,
+  "times": [
+   "عصر",
+   "شب"
+  ],
+  "modes": [
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "لواسان",
+  "description": "تجربه‌ای هیجان‌انگیز از ژانر ترس و ماجراجویی در فضایی شبیه‌سازی شده."
+ },
+ {
+  "name": "رویا پارک",
+  "category": "بازی",
+  "row": 54,
+  "location": "https://nshn.ir/cd_bvWz9pxpgru",
+  "duration_h": 3,
+  "times": [
+   "ظهر",
+   "عصر"
+  ],
+  "modes": [
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "یک موزه سرگرمی و توهم، شامل فضاهای سه‌بعدی و خطاهای دیداری جذاب."
+ },
+ {
+  "name": "کلوپ بازی",
+  "category": "بازی",
+  "row": 55,
+  "location": "",
+  "duration_h": 3,
+  "times": [
+   "ظهر",
+   "عصر"
+  ],
+  "modes": [
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "محلی برای بازی‌های رومیزی (بُرد گیم)، کامپیوتری و دورهمی‌های دوستانه."
+ },
+ {
+  "name": "سورتمه توچال",
+  "category": "بازی",
+  "row": 56,
+  "location": "https://nshn.ir/a4_bvWlEexO9dc",
+  "duration_h": 3,
+  "times": [
+   "عصر",
+   "شب"
+  ],
+  "modes": [
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "تجربه هیجان‌انگیز سوار شدن بر سورتمه در مسیر کوهستانی توچال."
+ },
+ {
+  "name": "تله کابین توچال",
+  "category": "بازی",
+  "row": 57,
+  "location": "https://nshn.ir/a4_bvWlEexO9dc",
+  "duration_h": 3,
+  "times": [
+   "صبح",
+   "عصر"
+  ],
+  "modes": [
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "سفر با تله‌کابین به ایستگاه‌های بالایی توچال با منظره کوهستانی زیبا."
+ },
+ {
+  "name": "سینما وی آی پی",
+  "category": "بازی",
+  "row": 58,
+  "location": "",
+  "duration_h": 3,
+  "times": [
+   "عصر",
+   "شب"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "تجربه تماشای فیلم با امکانات ویژه، صندلی‌های راحت و پذیرایی."
+ },
+ {
+  "name": "دوچرخه هوایی مگامال",
+  "category": "بازی",
+  "row": 59,
+  "location": "https://nshn.ir/2b_bvPEBNx-2fW",
+  "duration_h": 3,
+  "times": [
+   "ظهر",
+   "عصر"
+  ],
+  "modes": [
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "یک تفریح هیجان‌انگیز با رکاب زدن بر روی یک مسیر معلق و هوایی."
+ },
+ {
+  "name": "اتاق فرار",
+  "category": "بازی",
+  "row": 60,
+  "location": "",
+  "duration_h": 3,
+  "times": [
+   "عصر",
+   "شب"
+  ],
+  "modes": [
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "یک بازی گروهی معمایی و هیجان‌انگیز برای حل پازل‌ها و خروج از اتاق."
+ },
+ {
+  "name": "سینما ترس",
+  "category": "بازی",
+  "row": 61,
+  "location": "",
+  "duration_h": 3,
+  "times": [
+   "عصر",
+   "شب"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "تماشای فیلم‌های ترسناک یا تجربه واقعیت مجازی ترسناک."
+ },
+ {
+  "name": "آدرنالین پارک",
+  "category": "بازی",
+  "row": 62,
+  "location": "https://nshn.ir/ed_bvvZeOx4_i5",
+  "duration_h": 3,
+  "times": [
+   "ظهر",
+   "عصر"
+  ],
+  "modes": [
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "مجموعه تفریحات هیجان‌انگیز با تمرکز بر پرش و سقوط آزاد."
+ },
+ {
+  "name": "فلای برد دریاچه آزادی",
+  "category": "بازی",
+  "row": 63,
+  "location": "https://nshn.ir/24_bv_8p_xJmdh",
+  "duration_h": 3,
+  "times": [
+   "ظهر",
+   "عصر"
+  ],
+  "modes": [
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "یک ورزش آبی هیجان‌انگیز که فرد را با نیروی آب به هوا می‌برد."
+ },
+ {
+  "name": "کارتینگ آزادی",
+  "category": "بازی",
+  "row": 64,
+  "location": "https://nshn.ir/24_bv_8p_xJmdh",
+  "duration_h": 3,
+  "times": [
+   "ظهر",
+   "عصر"
+  ],
+  "modes": [
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "رانندگی با ماشین‌های کوچک مسابقه‌ای در پیست استاندارد."
+ },
+ {
+  "name": "اسکی رو آب آزادی",
+  "category": "بازی",
+  "row": 65,
+  "location": "https://nshn.ir/24_bv_8p_xJmdh",
+  "duration_h": 3,
+  "times": [
+   "ظهر",
+   "عصر"
+  ],
+  "modes": [
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "یک ورزش آبی هیجان‌انگیز برای سر خوردن روی آب با کمک کابل."
+ },
+ {
+  "name": "سفالگری",
+  "category": "بازی",
+  "row": 66,
+  "location": "",
+  "duration_h": 3,
+  "times": [
+   "ظهر",
+   "عصر"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "شرکت در کارگاه ساخت ظروف سفالی، یک فعالیت هنری و آرامش‌بخش."
+ },
+ {
+  "name": "بازی شهری اپلیکیشن",
+  "category": "بازی",
+  "row": 67,
+  "location": "",
+  "duration_h": 3,
+  "times": [
+   "ظهر",
+   "عصر"
+  ],
+  "modes": [
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "بازی‌های ماجراجویانه و معمایی در سطح شهر با استفاده از اپلیکیشن موبایل."
+ },
+ {
+  "name": "سنگ نوردی چیتگر",
+  "category": "بازی",
+  "row": 68,
+  "location": "https://nshn.ir/4e_bvSQP5xj5Tr",
+  "duration_h": 3,
+  "times": [
+   "ظهر",
+   "عصر"
+  ],
+  "modes": [
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "امکانات سنگ‌نوردی و صخره‌نوردی در مجموعه تفریحی چیتگر."
+ },
+ {
+  "name": "کارتینگ چیتگر",
+  "category": "بازی",
+  "row": 69,
+  "location": "https://nshn.ir/4e_bvSQP5xj5Tr",
+  "duration_h": 3,
+  "times": [
+   "ظهر",
+   "عصر"
+  ],
+  "modes": [
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "رانندگی سریع و هیجان‌انگیز در پیست کارتینگ در پارک چیتگر."
+ },
+ {
+  "name": "شهربازی تیراژه ۱ و ۲",
+  "category": "بازی",
+  "row": 70,
+  "location": "https://nshn.ir/dc_bvolYGxMP1o",
+  "duration_h": 3,
+  "times": [
+   "عصر",
+   "شب"
+  ],
+  "modes": [
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "شهربازی‌های سرپوشیده و مناسب برای کودکان و نوجوانان در دو مرکز خرید."
+ },
+ {
+  "name": "پارک آبی و استخر",
+  "category": "بازی",
+  "row": 71,
+  "location": "",
+  "duration_h": 3,
+  "times": [
+   "ظهر",
+   "عصر"
+  ],
+  "modes": [
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "شنا و تفریح در پارک‌های آبی مجهز یا استخرهای سرپوشیده."
+ },
+ {
+  "name": "سافاری پارک تهران",
+  "category": "بازی",
+  "row": 72,
+  "location": "https://nshn.ir/94_bvoSxQxMJEE",
+  "duration_h": 3,
+  "times": [
+   "ظهر",
+   "عصر"
+  ],
+  "modes": [
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "یک مجموعه تفریحی با بازی‌های هیجان‌انگیز در فضای باز و مسیرهای آفرود."
+ },
+ {
+  "name": "کوچه لولاگر",
+  "category": "شهری",
+  "row": 73,
+  "location": "https://nshn.ir/_bvg6C0xiX38",
+  "duration_h": 1,
+  "times": [
+   "عصر",
+   "شب"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "کوچه‌ای قدیمی و باریک در مرکز تهران با معماری خاص و خانه شیشه‌ای."
+ },
+ {
+  "name": "کوچه تمدن",
+  "category": "شهری",
+  "row": 74,
+  "location": "https://nshn.ir/8d_bvhfaQxiF2y",
+  "duration_h": 1,
+  "times": [
+   "عصر",
+   "شب"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "یک کوچه تاریخی در قلب شهر، مناسب برای پیاده‌روی و عکاسی."
+ },
+ {
+  "name": "منزل بهرامی",
+  "category": "شهری",
+  "row": 75,
+  "location": "https://nshn.ir/fe_bvgImNxicU7",
+  "duration_h": 3,
+  "times": [
+   "ظهر",
+   "عصر"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "بازدید از یک خانه تاریخی با معماری قدیمی و حیاط دلباز."
+ },
+ {
+  "name": "فرحزاد",
+  "category": "شهری",
+  "row": 76,
+  "location": "https://nshn.ir/_bvQ1SVxMRq6",
+  "duration_h": 3,
+  "times": [
+   "عصر",
+   "شب"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "یک منطقه قدیمی با رستوران‌های سنتی و محلی در دره کوهستانی."
+ },
+ {
+  "name": "بستنی حافظ",
+  "category": "شهری",
+  "row": 77,
+  "location": "https://nshn.ir/b2_bv8wOyxieP7",
+  "duration_h": 1,
+  "times": [
+   "ظهر",
+   "عصر"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "مغازه قدیمی و معروف برای تهیه بستنی و فالوده سنتی."
+ },
+ {
+  "name": "سینما غزالی",
+  "category": "شهری",
+  "row": 78,
+  "location": "https://nshn.ir/e7_bv_b3QxFwPh",
+  "duration_h": 3,
+  "times": [
+   "صبح",
+   "ظهر"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "بازدید از دکورهای شهرک سینمایی غزالی که برای ساخت فیلم‌های تاریخی استفاده شده."
+ },
+ {
+  "name": "باغ فردوس",
+  "category": "شهری",
+  "row": 79,
+  "location": "https://nshn.ir/_bvfPt0xiV2b",
+  "duration_h": 3,
+  "times": [
+   "عصر",
+   "شب"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "عمارتی تاریخی که اکنون موزه سینما است، دارای کافه و فضای سبز زیبا."
+ },
+ {
+  "name": "برج آزادی",
+  "category": "شهری",
+  "row": 80,
+  "location": "https://nshn.ir/bd_bvh12NxMLHu",
+  "duration_h": 3,
+  "times": [
+   "ظهر",
+   "عصر"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "نماد تاریخی تهران، بازدید از موزه و تماشای معماری منحصر به فرد برج."
+ },
+ {
+  "name": "باب همایون غذا",
+  "category": "شهری",
+  "row": 81,
+  "location": "https://nshn.ir/_bveIPOxid0D",
+  "duration_h": 1,
+  "times": [
+   "ظهر",
+   "شب"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "یک خیابان تاریخی با رستوران‌های خیابانی و غذاهای فوری متنوع."
+ },
+ {
+  "name": "بستنی ژلاتو",
+  "category": "شهری",
+  "row": 82,
+  "location": "https://nshn.ir/33_bvrJGWx4P13",
+  "duration_h": 1,
+  "times": [
+   "عصر",
+   "شب"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "مکانی برای امتحان بستنی‌های ایتالیایی و طعم‌های مدرن."
+ },
+ {
+  "name": "خلازیر",
+  "category": "شهری",
+  "row": 83,
+  "location": "https://nshn.ir/fd_bQ65QYxMUlE",
+  "duration_h": 3,
+  "times": [
+   "ظهر"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "بازار دست دوم‌فروشی و ضایعات فلزی در جنوب تهران."
+ },
+ {
+  "name": "برج میلاد",
+  "category": "شهری",
+  "row": 84,
+  "location": "https://nshn.ir/58_bvo2Qex40x1",
+  "duration_h": 3,
+  "times": [
+   "عصر",
+   "شب"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "بازدید از سکوی دید، رستوران گردان و امکانات تفریحی در برج مخابراتی تهران."
+ },
+ {
+  "name": "تجریش",
+  "category": "شهری",
+  "row": 85,
+  "location": "https://nshn.ir/d5_bvfT4exiq9b",
+  "duration_h": 1,
+  "times": [
+   "عصر",
+   "شب"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "بازار سنتی و مدرن، امامزاده صالح و فضای پرجنب و جوش در شمال تهران."
+ },
+ {
+  "name": "شاه عبدالعظیم",
+  "category": "شهری",
+  "row": 86,
+  "location": "https://nshn.ir/62_bQwTMGxuSMd",
+  "duration_h": 3,
+  "times": [
+   "ظهر",
+   "عصر"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "زیارتگاه و آرامگاه مذهبی و تاریخی در شهر ری."
+ },
+ {
+  "name": "بازار تهران",
+  "category": "شهری",
+  "row": 87,
+  "location": "https://nshn.ir/01_bv8gfGxi4c7",
+  "duration_h": 3,
+  "times": [
+   "ظهر"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "بازار بزرگ و تاریخی تهران، مرکز اصلی خرید و فروش سنتی."
+ },
+ {
+  "name": "کاخ نیاوران",
+  "category": "شهری",
+  "row": 88,
+  "location": "https://nshn.ir/7b_bvWQPNxRBAu",
+  "duration_h": 3,
+  "times": [
+   "ظهر",
+   "عصر"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "بازدید از کاخ‌های مجموعه نیاوران، شامل موزه و فضای سبز."
+ },
+ {
+  "name": "خانه مقدم",
+  "category": "شهری",
+  "row": 89,
+  "location": "https://nshn.ir/23_bvEfUYxOttY",
+  "duration_h": 1,
+  "times": [
+   "ظهر",
+   "عصر"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "یک خانه تاریخی زیبا با معماری شگفت‌انگیز و اشیاء عتیقه."
+ },
+ {
+  "name": "موزه طبیعت",
+  "category": "شهری",
+  "row": 90,
+  "location": "https://nshn.ir/bc_bvWmr0xpeFN",
+  "duration_h": 3,
+  "times": [
+   "ظهر",
+   "عصر"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "موزه‌ای شامل گونه‌های گیاهی و جانوری و حیات وحش ایران و جهان."
+ },
+ {
+  "name": "هدیش مال",
+  "category": "مرکز خرید",
+  "row": 91,
+  "location": "https://nshn.ir/f6_bvr1i0xRwMl",
+  "duration_h": 3,
+  "times": [
+   "عصر",
+   "شب"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "یک مرکز خرید لوکس و مدرن با برندهای متنوع و امکانات تفریحی."
+ },
+ {
+  "name": "اپال",
+  "category": "مرکز خرید",
+  "row": 92,
+  "location": "https://nshn.ir/90_bv7hqQxMNTh",
+  "duration_h": 3,
+  "times": [
+   "عصر",
+   "شب"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "یک مال بزرگ و مدرن، شامل مرکز خرید، فودکورت، پردیس سینمایی و شهربازی."
+ },
+ {
+  "name": "جمعه بازار پروانه",
+  "category": "مرکز خرید",
+  "row": 93,
+  "location": "https://nshn.ir/97_bvSF_NxiwpK",
+  "duration_h": 3,
+  "times": [
+   "صبح",
+   "ظهر"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "بازار هفتگی صنایع دستی، عتیقه و محصولات هنری که فقط جمعه‌ها دایر است."
+ },
+ {
+  "name": "رواق آب آتش",
+  "category": "مرکز خرید",
+  "row": 94,
+  "location": "https://nshn.ir/96_bvoRiWxiAfq",
+  "duration_h": 3,
+  "times": [
+   "عصر",
+   "شب"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "یک فضای تجاری در مجموعه عباس‌آباد، مناسب برای خرید و صرف غذا."
+ },
+ {
+  "name": "سام سنتر پاسداران",
+  "category": "مرکز خرید",
+  "row": 95,
+  "location": "https://nshn.ir/63_bvr5v2xuDz7",
+  "duration_h": 3,
+  "times": [
+   "عصر",
+   "شب"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "یک مرکز خرید بوتیک و لوکس با فروشگاه‌های خاص."
+ },
+ {
+  "name": "ارگ تجریش",
+  "category": "مرکز خرید",
+  "row": 96,
+  "location": "https://nshn.ir/71_bvf0NWxiad6",
+  "duration_h": 3,
+  "times": [
+   "عصر",
+   "شب"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "یک مرکز خرید بزرگ و مدرن در شمال تهران، دارای پردیس سینمایی."
+ },
+ {
+  "name": "بازار بهجت آباد",
+  "category": "مرکز خرید",
+  "row": 97,
+  "location": "https://nshn.ir/51_bvHxkWxi27t",
+  "duration_h": 3,
+  "times": [
+   "عصر",
+   "شب"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "یک بازار محلی و سنتی برای خرید میوه، سبزیجات و مواد غذایی."
+ },
+ {
+  "name": "مگامال",
+  "category": "مرکز خرید",
+  "row": 98,
+  "location": "https://nshn.ir/2b_bvPEBNx-2fW",
+  "duration_h": 3,
+  "times": [
+   "عصر",
+   "شب"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "یک مرکز خرید بزرگ و مدرن، دارای فروشگاه‌های زنجیره‌ای و امکانات تفریحی."
+ },
+ {
+  "name": "ایران مال",
+  "category": "مرکز خرید",
+  "row": 99,
+  "location": "https://nshn.ir/2c_bvSzMYxGy-i",
+  "duration_h": 3,
+  "times": [
+   "صبح",
+   "ظهر"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "بزرگترین مال ایران و یکی از بزرگترین مال‌های جهان، شامل بازار، باغ و امکانات تفریحی."
+ },
+ {
+  "name": "باغ کتاب",
+  "category": "مرکز خرید",
+  "row": 100,
+  "location": "https://nshn.ir/3c_bvSBbexiKsD",
+  "duration_h": 3,
+  "times": [
+   "عصر",
+   "شب"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "یک مرکز فرهنگی، فروشگاهی و تفریحی بزرگ با تمرکز بر کتاب و لوازم فرهنگی."
+ },
+ {
+  "name": "پاساژ مفید ستارخان",
+  "category": "مرکز خرید",
+  "row": 101,
+  "location": "https://nshn.ir/b3_bvHv8Wx4sJ0",
+  "duration_h": 3,
+  "times": [
+   "عصر",
+   "شب"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "یک پاساژ قدیمی و شناخته شده در غرب تهران."
+ },
+ {
+  "name": "کاخ گلستان",
+  "category": "شهری",
+  "row": 101,
+  "location": "https://nshn.ir/a2_bveW02xid5q",
+  "duration_h": 3,
+  "times": [
+   "صبح",
+   "ظهر"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "میراث جهانی یونسکو، معماری قاجاری و موزه‌های داخلی."
+ },
+ {
+  "name": "اطلس مال",
+  "category": "مرکز خرید",
+  "row": 102,
+  "location": "https://nshn.ir/ed_bvfMuWxRFG8",
+  "duration_h": 3,
+  "times": [
+   "عصر",
+   "شب"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "یک مرکز خرید لوکس و جدید در نیاوران با منظره کوهستانی."
+ },
+ {
+  "name": "کاخ سعدآباد",
+  "category": "شهری",
+  "row": 102,
+  "location": "https://nshn.ir/bd_bvWU0pxiiMK",
+  "duration_h": 3,
+  "times": [
+   "صبح",
+   "ظهر"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "مجموعه کاخ‌های پهلوی و قاجار، موزه‌ها و فضای جنگلی."
+ },
+ {
+  "name": "نیایش مال",
+  "category": "مرکز خرید",
+  "row": 103,
+  "location": "https://nshn.ir/ed_bvr2Nyx-kXW",
+  "duration_h": 3,
+  "times": [
+   "عصر",
+   "شب"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "یک مرکز خرید جدید با دسترسی آسان به اتوبان و امکانات متنوع."
+ },
+ {
+  "name": "کاخ نیاوران",
+  "category": "شهری",
+  "row": 103,
+  "location": "https://nshn.ir/7b_bvWQPNxRBAu",
+  "duration_h": 3,
+  "times": [
+   "صبح",
+   "ظهر"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "مجموعه فرهنگی-تاریخی با کاخ‌ها و موزه‌های جذاب."
+ },
+ {
+  "name": "چهل ستون",
+  "category": "مرکز خرید",
+  "row": 104,
+  "location": "https://nshn.ir/a9_bvgDlNxiJrg",
+  "duration_h": 3,
+  "times": [
+   "عصر",
+   "شب"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "یک مرکز خرید نسبتاً قدیمی در منطقه مرکزی."
+ },
+ {
+  "name": "موزه ملی ایران",
+  "category": "شهری",
+  "row": 104,
+  "location": "https://nshn.ir/bb_bvEL9GxiQbm",
+  "duration_h": 3,
+  "times": [
+   "صبح",
+   "ظهر"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "گنجینه تاریخ ایران پیش از اسلام و دوران اسلامی."
+ },
+ {
+  "name": "پالادیوم",
+  "category": "مرکز خرید",
+  "row": 105,
+  "location": "https://nshn.ir/ac_bv17ypxiSnq",
+  "duration_h": 3,
+  "times": [
+   "عصر",
+   "شب"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "یک مرکز خرید لوکس و مدرن در زعفرانیه با برندهای معتبر و فودکورت جذاب."
+ },
+ {
+  "name": "موزه سینما",
+  "category": "شهری",
+  "row": 105,
+  "location": "https://nshn.ir/77_bv1KuexiMNi",
+  "duration_h": 3,
+  "times": [
+   "عصر",
+   "شب"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "معماری زیبا، تاریخ سینمای ایران، کافه‌گردی در باغ فردوس."
+ },
+ {
+  "name": "رزمال",
+  "category": "مرکز خرید",
+  "row": 106,
+  "location": "https://nshn.ir/7d_bv2ZOVxjtHV",
+  "duration_h": 3,
+  "times": [
+   "عصر",
+   "شب"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "یک مرکز خرید مدرن و تازه تاسیس با طراحی زیبا در غرب تهران."
+ },
+ {
+  "name": "موزه هنرهای معاصر",
+  "category": "شهری",
+  "row": 106,
+  "location": "https://nshn.ir/8c_bvHedPxOWpj",
+  "duration_h": 3,
+  "times": [
+   "صبح",
+   "ظهر"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "گنجینه آثار هنرمندان معاصر ایران و جهان."
+ },
+ {
+  "name": "بازار سنتی ستارخان",
+  "category": "مرکز خرید",
+  "row": 107,
+  "location": "https://nshn.ir/6a_bvkObNxM0_Z",
+  "duration_h": 3,
+  "times": [
+   "عصر",
+   "شب"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "یک بازار محلی و قدیمی در ستارخان، مناسب برای خرید‌های روزانه."
+ },
+ {
+  "name": "موزه آبگینه و سفالینه",
+  "category": "شهری",
+  "row": 107,
+  "location": "https://nshn.ir/c9_bvgWNQxi7d-",
+  "duration_h": 3,
+  "times": [
+   "صبح",
+   "ظهر"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "ساختمان قاجاری و نمایش اشیاء شیشه و سفالی باستانی."
+ },
+ {
+  "name": "تیراژ ۱ و ۲",
+  "category": "مرکز خرید",
+  "row": 108,
+  "location": "https://nshn.ir/dc_bvolYGxMP1o",
+  "duration_h": 3,
+  "times": [
+   "عصر",
+   "شب"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "دو مرکز خرید با امکانات تجاری، فودکورت و شهربازی."
+ },
+ {
+  "name": "بازار ونک",
+  "category": "مرکز خرید",
+  "row": 109,
+  "location": "https://nshn.ir/e4_bv2sIWxiPM0",
+  "duration_h": 3,
+  "times": [
+   "عصر",
+   "شب"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "یک بازار سنتی و شلوغ در میدان ونک، معروف به فروش لباس و لوازم خانه."
+ },
+ {
+  "name": "باغ موزه قصر",
+  "category": "شهری",
+  "row": 109,
+  "location": "https://nshn.ir/cb_bvkmC5xuMX_",
+  "duration_h": 3,
+  "times": [
+   "صبح",
+   "عصر"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "زندان قصر سابق، فضایی فرهنگی و نمایشگاهی."
+ },
+ {
+  "name": "کافه سکو ایرانشهر",
+  "category": "کافه",
+  "row": 110,
+  "location": "https://nshn.ir/e9_bvHrGVxiFXM",
+  "duration_h": 1,
+  "times": [
+   "هروقت"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "یک کافه هنری و دنج با فضای باز کوچک، مناسب برای قرارهای دوستانه."
+ },
+ {
+  "name": "کافه مانا بلوار کشاورز",
+  "category": "کافه",
+  "row": 111,
+  "location": "https://nshn.ir/0a_bvPVMpxOOW6",
+  "duration_h": 1,
+  "times": [
+   "هروقت"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "کافه‌ای در یک فضای سبز با دکوراسیون خاص و منوی متنوع."
+ },
+ {
+  "name": "باغ موزه نگارستان",
+  "category": "شهری",
+  "row": 111,
+  "location": "https://nshn.ir/19_bvgdQOxuYeK",
+  "duration_h": 3,
+  "times": [
+   "صبح",
+   "عصر"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "باغ قدیمی با حوض‌ها و نگارخانه‌ها."
+ },
+ {
+  "name": "کافه روبرو",
+  "category": "کافه",
+  "row": 112,
+  "location": "https://nshn.ir/29_bvhi-WxOmJ4",
+  "duration_h": 1,
+  "times": [
+   "هروقت"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "یک کافه مدرن و خاص با طراحی متفاوت، مناسب جلسات کاری و مطالعه."
+ },
+ {
+  "name": "موزه صلح تهران",
+  "category": "شهری",
+  "row": 112,
+  "location": "https://nshn.ir/3e_bveUxQxi7IY",
+  "duration_h": 3,
+  "times": [
+   "صبح",
+   "ظهر"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "موزه‌ای با موضوع جنگ و صلح، مناسب برای تفکر."
+ },
+ {
+  "name": "شو کارت سفال و نقاشی",
+  "category": "کافه",
+  "row": 113,
+  "location": "",
+  "duration_h": 1,
+  "times": [
+   "ظهر",
+   "عصر"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "یک کافه-کارگاه که امکان انجام سفالگری یا نقاشی در حین نوشیدن قهوه را فراهم می‌کند."
+ },
+ {
+  "name": "کافه کا",
+  "category": "کافه",
+  "row": 114,
+  "location": "https://nshn.ir/e0_bvZRtWxRGit",
+  "duration_h": 1,
+  "times": [
+   "هروقت"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "کافه‌ای شناخته‌شده با محیطی گرم و منوی کامل نوشیدنی و غذا."
+ },
+ {
+  "name": "برج آزادی",
+  "category": "شهری",
+  "row": 114,
+  "location": "https://nshn.ir/bd_bvh12NxMLHu",
+  "duration_h": 3,
+  "times": [
+   "عصر",
+   "شب"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "نماد معماری مدرن ایران، موزه و تالارهای زیرزمینی."
+ },
+ {
+  "name": "قطار یه روزه شمال",
+  "category": "تور و سفر",
+  "row": 115,
+  "location": "",
+  "duration_h": 12,
+  "times": [
+   "صبح"
+  ],
+  "modes": [
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "مازندران",
+  "description": "یک سفر کوتاه و یک‌روزه به شمال با قطار، شامل طبیعت‌گردی."
+ },
+ {
+  "name": "رشت",
+  "category": "تور و سفر",
+  "row": 116,
+  "location": "",
+  "duration_h": 12,
+  "times": [
+   "صبح"
+  ],
+  "modes": [
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "رشت",
+  "description": "سفر به شهر رشت، شامل بازدید از بازار، موزه میراث روستایی و غذاهای محلی."
+ },
+ {
+  "name": "سینما شب کمپ",
+  "category": "تور و سفر",
+  "row": 117,
+  "location": "",
+  "duration_h": 12,
+  "times": [
+   "عصر",
+   "شب"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "",
+  "description": "تماشای فیلم در فضای باز و شبانه، در حین کمپینگ."
+ },
+ {
+  "name": "دورهمی پنجشنبه",
+  "category": "تور و سفر",
+  "row": 118,
+  "location": "",
+  "duration_h": 12,
+  "times": [
+   "ظهر",
+   "عصر"
+  ],
+  "modes": [
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "یک برنامه یا رویداد دورهمی و گروهی در عصر یا شب پنجشنبه."
+ },
+ {
+  "name": "کاشان",
+  "category": "تور و سفر",
+  "row": 119,
+  "location": "",
+  "duration_h": 12,
+  "times": [
+   "صبح"
+  ],
+  "modes": [
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "کاشان",
+  "description": "سفر به کاشان، بازدید از خانه‌های تاریخی، باغ فین و کویر."
+ },
+ {
+  "name": "قم",
+  "category": "تور و سفر",
+  "row": 120,
+  "location": "",
+  "duration_h": 12,
+  "times": [
+   "صبح"
+  ],
+  "modes": [
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "قم",
+  "description": "سفر زیارتی به شهر قم و بازدید از حرم حضرت معصومه."
+ },
+ {
+  "name": "یزد",
+  "category": "تور و سفر",
+  "row": 121,
+  "location": "",
+  "duration_h": 12,
+  "times": [
+   "صبح"
+  ],
+  "modes": [
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "یزد",
+  "description": "سفر به یزد، شهر خشت و بادگیرها، شامل بازدید از بافت تاریخی و مکان‌های زرتشتی."
+ },
+ {
+  "name": "کمپین",
+  "category": "تور و سفر",
+  "row": 122,
+  "location": "",
+  "duration_h": 12,
+  "times": [
+   "صبح",
+   "عصر"
+  ],
+  "modes": [
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "",
+  "description": "شرکت در یک کمپ یا اردوی چندروزه در طبیعت."
+ },
+ {
+  "name": "الموت",
+  "category": "تور و سفر",
+  "row": 123,
+  "location": "",
+  "duration_h": 12,
+  "times": [
+   "صبح"
+  ],
+  "modes": [
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "الموت (قزوین)",
+  "description": "سفر به منطقه الموت و بازدید از قلعه تاریخی حسن صباح."
+ },
+ {
+  "name": "ولیعصر از تجریش راه آهن",
+  "category": "دور دور",
+  "row": 124,
+  "location": "https://nshn.ir/_bvbZ5pxOp2O",
+  "duration_h": 3,
+  "times": [
+   "عصر"
+  ],
+  "modes": [
+   "solo",
+   "partner"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "رانندگی یا پیاده‌روی در طولانی‌ترین خیابان خاورمیانه، حس نوستالژیک تهران."
+ },
+ {
+  "name": "نیاوران تا ولنجک",
+  "category": "دور دور",
+  "row": 125,
+  "location": "https://nshn.ir/9e_bvf6bVxRPCR",
+  "duration_h": 3,
+  "times": [
+   "ظهر",
+   "عصر"
+  ],
+  "modes": [
+   "solo",
+   "partner"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "رانندگی در مسیر کوهستانی با مناظر شهری و دسترسی به کافه‌ها و رستوران‌ها."
+ },
+ {
+  "name": "ولنجک تا بام",
+  "category": "دور دور",
+  "row": 126,
+  "location": "https://nshn.ir/96_bvfuBWxOnRu",
+  "duration_h": 3,
+  "times": [
+   "ظهر",
+   "عصر"
+  ],
+  "modes": [
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "رانندگی در خیابان‌های سربالایی ولنجک تا رسیدن به بام تهران."
+ },
+ {
+  "name": "تجریش تا دربند",
+  "category": "دور دور",
+  "row": 127,
+  "location": "https://nshn.ir/_bvbZ5pxOp2O",
+  "duration_h": 3,
+  "times": [
+   "ظهر",
+   "عصر"
+  ],
+  "modes": [
+   "solo",
+   "partner"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "رانندگی در مسیر پردرخت از میدان تجریش به سمت منطقه کوهستانی دربند."
+ },
+ {
+  "name": "جاده اوین درکه",
+  "category": "دور دور",
+  "row": 128,
+  "location": "https://nshn.ir/_bv1YbQxOMcj",
+  "duration_h": 6,
+  "times": [
+   "ظهر",
+   "عصر"
+  ],
+  "modes": [
+   "solo",
+   "partner"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "رانندگی در یک جاده فرعی و زیبا با دسترسی به طبیعت اوین و درکه."
+ },
+ {
+  "name": "فرشته تا پل رومی",
+  "category": "دور دور",
+  "row": 129,
+  "location": "https://nshn.ir/_bvvCs5xucn9",
+  "duration_h": 3,
+  "times": [
+   "ظهر",
+   "عصر"
+  ],
+  "modes": [
+   "solo",
+   "partner"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "رانندگی در یکی از لوکس‌ترین مناطق تهران با فروشگاه‌ها و کافه‌های لاکچری."
+ },
+ {
+  "name": "محله الهیه",
+  "category": "دور دور",
+  "row": 130,
+  "location": "https://nshn.ir/_bvQjX0xiKTT",
+  "duration_h": 3,
+  "times": [
+   "ظهر",
+   "عصر"
+  ],
+  "modes": [
+   "solo",
+   "partner"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "گشت و گذار در خیابان‌های عریض و لوکس محله الهیه."
+ },
+ {
+  "name": "محله کاشانک",
+  "category": "دور دور",
+  "row": 131,
+  "location": "https://nshn.ir/f8_bvWI3exRwlG",
+  "duration_h": 3,
+  "times": [
+   "ظهر",
+   "عصر"
+  ],
+  "modes": [
+   "solo",
+   "partner"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "رانندگی در محله‌ای دنج و آرام در شمال شرق تهران."
+ },
+ {
+  "name": "محله نیاوران",
+  "category": "دور دور",
+  "row": 132,
+  "location": "https://nshn.ir/9e_bvf6bVxRPCR",
+  "duration_h": 3,
+  "times": [
+   "ظهر",
+   "عصر"
+  ],
+  "modes": [
+   "solo",
+   "partner"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "گشت در محله‌ای اشرافی با پارک‌ها، کاخ و مراکز خرید لوکس."
+ },
+ {
+  "name": "محله دارآباد",
+  "category": "دور دور",
+  "row": 133,
+  "location": "https://nshn.ir/95_bvWLX5xpktz",
+  "duration_h": 3,
+  "times": [
+   "ظهر",
+   "عصر"
+  ],
+  "modes": [
+   "solo",
+   "partner"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "رانندگی در مسیرهای کوهستانی دارآباد با دسترسی به رستوران‌ها و طبیعت."
+ },
+ {
+  "name": "محله قلهک",
+  "category": "دور دور",
+  "row": 134,
+  "location": "https://nshn.ir/ff_bvsJCGxu5oX",
+  "duration_h": 3,
+  "times": [
+   "ظهر",
+   "عصر"
+  ],
+  "modes": [
+   "solo",
+   "partner"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "گشت و گذار در یک محله قدیمی با معماری خاص و سفارت بریتانیا."
+ },
+ {
+  "name": "پل عشاق",
+  "category": "دور دور",
+  "row": 135,
+  "location": "https://nshn.ir/_bvoh7WxOrBd",
+  "duration_h": 3,
+  "times": [
+   "عصر",
+   "شب"
+  ],
+  "modes": [
+   "solo",
+   "partner"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "یک پل پیاده‌رو با طراحی زیبا، محلی برای قرارهای دوستانه و عکاسی."
+ },
+ {
+  "name": "اتوبان ارتش تا لواسان",
+  "category": "دور دور",
+  "row": 136,
+  "location": "https://nshn.ir/_b7YxzG5Dt6_",
+  "duration_h": 3,
+  "times": [
+   "ظهر",
+   "عصر"
+  ],
+  "modes": [
+   "solo",
+   "partner"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "رانندگی در یک مسیر طولانی با منظره زیبای کوه و دسترسی به لواسان."
+ },
+ {
+  "name": "سعادت آباد تا شهرک غرب",
+  "category": "دور دور",
+  "row": 137,
+  "location": "https://nshn.ir/fd_bv1VnYx4_AL",
+  "duration_h": 3,
+  "times": [
+   "ظهر",
+   "عصر"
+  ],
+  "modes": [
+   "solo",
+   "partner"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "گشت و گذار و رانندگی در خیابان‌های مدرن و شلوغ غرب تهران."
+ },
+ {
+  "name": "بام لند",
+  "category": "شهری",
+  "row": 173,
+  "location": "https://nshn.ir/13_bvoHDOxjI_w",
+  "duration_h": 3,
+  "times": [
+   "عصر",
+   "شب"
+  ],
+  "modes": [
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "مرکز خرید لوکس با ویو دریاچه و رستوران‌های شیک."
+ },
+ {
+  "name": "بوستان قیطریه",
+  "category": "پارک",
+  "row": 183,
+  "location": "https://nshn.ir/df_bvvMk5xu4ts",
+  "duration_h": 3,
+  "times": [
+   "عصر",
+   "شب"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "باغ قدیمی با فضای هنری، نگارخانه."
+ },
+ {
+  "name": "بازار بزرگ تهران",
+  "category": "شهری",
+  "row": 261,
+  "location": "https://nshn.ir/01_bv8gfGxi4c7",
+  "duration_h": 3,
+  "times": [
+   "صبح",
+   "ظهر"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "قلب اقتصادی و تاریخی تهران، معماری سنتی."
+ },
+ {
+  "name": "بازارچه عودلاجان",
+  "category": "شهری",
+  "row": 263,
+  "location": "https://nshn.ir/5a_bv80_Gxiapd",
+  "duration_h": 3,
+  "times": [
+   "صبح",
+   "عصر"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "بازسازی شده، صنایع دستی و محله قدیمی."
+ },
+ {
+  "name": "کافه گودو لولاگر",
+  "category": "کافه",
+  "row": 301,
+  "location": "https://nshn.ir/bc_bvgIIWxiXJN",
+  "duration_h": 3,
+  "times": [
+   "عصر",
+   "شب"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "معماری قرینه و نوستالژیک، محیطی آرام."
+ },
+ {
+  "name": "کافه چای بار (باغ نگارستان)",
+  "category": "کافه",
+  "row": 302,
+  "location": "https://nshn.ir/08_bvg4yPxuYpg",
+  "duration_h": 3,
+  "times": [
+   "عصر",
+   "شب"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "کافه در یک عمارت قاجاری باصفا و باغ سرسبز."
+ },
+ {
+  "name": "کافه عمارت روشنان",
+  "category": "کافه",
+  "row": 303,
+  "location": "https://nshn.ir/41_bvfBFPxuBmy",
+  "duration_h": 3,
+  "times": [
+   "عصر",
+   "شب"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "عمارت قاجاری زیبا، کتابخانه، محیطی فرهنگی."
+ },
+ {
+  "name": "کافه عمارت مسعودیه",
+  "category": "کافه",
+  "row": 304,
+  "location": "https://nshn.ir/d5_bvENsVxiq4h",
+  "duration_h": 3,
+  "times": [
+   "عصر",
+   "شب"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "کافه در دل بنای تاریخی با معماری قجری."
+ },
+ {
+  "name": "کافه ریبار (موزه زمان)",
+  "category": "کافه",
+  "row": 305,
+  "location": "https://nshn.ir/52_bvfBb5xiGnS",
+  "duration_h": 3,
+  "times": [
+   "عصر",
+   "شب"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "کافه در فضای باغ موزه زمان، فضای باز و عمارت زیبا."
+ },
+ {
+  "name": "کافه دوکاتی",
+  "category": "کافه",
+  "row": 307,
+  "location": "https://nshn.ir/2c_bvo_mGxjKWm",
+  "duration_h": 3,
+  "times": [
+   "عصر",
+   "شب"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "تم موتورسواری، منظره دریاچه، مناسب برای موتوربازان."
+ },
+ {
+  "name": "کافه گالری ریشه ۲۹",
+  "category": "کافه",
+  "row": 308,
+  "location": "https://nshn.ir/6e_bvvwlexiTwy",
+  "duration_h": 3,
+  "times": [
+   "عصر",
+   "شب"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "گالری هنری، فضای باز زیبا و دنج در یک باغ."
+ },
+ {
+  "name": "کافه نادری",
+  "category": "کافه",
+  "row": 309,
+  "location": "https://nshn.ir/cc_bvg-0PxiWs8",
+  "duration_h": 3,
+  "times": [
+   "صبح",
+   "ظهر"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "کافه قدیمی و تاریخی، پاتوق نویسندگان."
+ },
+ {
+  "name": "کافه رایدر",
+  "category": "کافه",
+  "row": 312,
+  "location": "https://nshn.ir/18_bv29AVx4URG",
+  "duration_h": 3,
+  "times": [
+   "عصر",
+   "شب"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "تم ماشین و موتورسیکلت، دکوراسیون مدرن و خاص."
+ },
+ {
+  "name": "کافه مایا",
+  "category": "بازی",
+  "row": 313,
+  "location": "https://nshn.ir/_bve6u5xuZro",
+  "duration_h": 3,
+  "times": [
+   "عصر",
+   "شب"
+  ],
+  "modes": [
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "بازی و قلیون - خیابان ایران سه راه امین حضور پاساژ مهدوی راهروی سمت راست ط۲ واحد ۴"
+ },
+ {
+  "name": "کافه گیم پاندا",
+  "category": "بازی",
+  "row": 314,
+  "location": "https://nshn.ir/_bvbRqQx4xHV",
+  "duration_h": 3,
+  "times": [
+   "عصر",
+   "شب"
+  ],
+  "modes": [
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "بازی و قلیون - خیابان ایران سه راه امین حضور پاساژ مهدوی راهروی سمت راست ط۲ واحد ۴"
+ },
+ {
+  "name": "موزه خودرو",
+  "category": "شهری",
+  "row": 315,
+  "location": "https://neshan.org/maps/places/1284178434ddd529d597562be9d4d820",
+  "duration_h": 3,
+  "times": [
+   "صبح",
+   "ظهر"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "موزه خودروهای تاریخی ایران، موزه‌ای در تهران است با حدود ۶۱ وسیله نقلیه کلاسیک و قدیمی از دوران قاجار و پهلوی"
+ },
+ {
+  "name": "موزه گربه",
+  "category": "شهری",
+  "row": 316,
+  "location": "https://neshan.org/maps/places/214ab3596de7f1c0f86a5ff7e696cafb",
+  "duration_h": 3,
+  "times": [
+   "عصر",
+   "شب"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "حدود ۳۰ گربه آزاد در فضای موزه و کافه پرسه می‌زنند"
+ },
+ {
+  "name": "آکاوریوم پارک",
+  "category": "شهری",
+  "row": 317,
+  "location": "https://neshan.org/maps/places/a218b2417c4889e534c6ba1c59c9f97c",
+  "duration_h": 3,
+  "times": [
+   "ظهر",
+   "عصر"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "یک آکواریوم عمومی در ضلع جنوب‌شرقی پارک شهر در مرکز تهران؛ گونه‌های رنگارنگ ماهیان آب‌ شیرین و شور دارد و در کنار آن کافه، اتاق کودک و فضای آموزشی هم هست"
+ },
+ {
+  "name": "کارخانه آرگو",
+  "category": "شهری",
+  "row": 318,
+  "location": "https://neshan.org/maps/places/b4005ba72af6bd552f487ad69bf0c68f",
+  "duration_h": 3,
+  "times": [
+   "ظهر",
+   "عصر"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "یک موزه هنر معاصر در تهران، که قبلاً یک کارخانه آبجوسازی قدیمی بوده است"
+ },
+ {
+  "name": "تنگه ولنجک",
+  "category": "طبیعت",
+  "row": 319,
+  "location": "https://neshan.org/maps/places/a6bbafce33058ea3ca2f4d05e52ae856",
+  "duration_h": 6,
+  "times": [
+   "صبح"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "با مسیرهای کوهنوردی، چشمه، درختان و مناظری زیبا که از نزدیکی قله توچال شروع می‌شود"
+ },
+ {
+  "name": "ایلوژنا",
+  "category": "مرکز خرید",
+  "row": 320,
+  "location": "https://nshn.ir/72_bvSMvQxGqFt",
+  "duration_h": 3,
+  "times": [
+   "عصر",
+   "شب"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "یک «موزه خطای دید» در تهران است با بیش از ۴۰ لوکیشن مختلف عکاسی، اتاق‌های سلفی و بازی‌های مدرن در فضایی حدود ۸۰۰ متر مربع"
+ },
+ {
+  "name": "عرفان لانژ",
+  "category": "رستوران",
+  "row": 321,
+  "location": "https://neshan.org/maps/places/224dd1ffcaee1addac66e72695d7e7c7",
+  "duration_h": 3,
+  "times": [
+   "عصر",
+   "شب"
+  ],
+  "modes": [
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "کافه‌ـ‌رستورانی در تهران (پاسداران) با منوی متنوع غذا و نوشیدنی، فضای لوکس و موسیقی زنده"
+ },
+ {
+  "name": "کافه عربی حامی",
+  "category": "کافه",
+  "row": 322,
+  "location": "https://nshn.ir/5f_bvSqHOxufbC",
+  "duration_h": 3,
+  "times": [
+   "عصر",
+   "شب"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "رستوران با تم عربی در تهران"
+ },
+ {
+  "name": "عمارت عین الدوله",
+  "category": "شهری",
+  "row": 323,
+  "location": "https://nshn.ir/55_bvsZfGxRNCh",
+  "duration_h": 3,
+  "times": [
+   "ظهر",
+   "شب"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "یک عمارت تاریخی قاجاری در تهران، متعلق به «عبدالمجید میرزا عین‌الدوله»، با معماری نئوکلاسیک و ستون‌های بلند"
+ },
+ {
+  "name": "کافه استودیو لبخند",
+  "category": "کافه",
+  "row": 324,
+  "location": "https://neshan.org/maps/places/3a8c64fe727936d1b13481649c00b33b",
+  "duration_h": 3,
+  "times": [
+   "ظهر",
+   "عصر"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "یک کافه دنج و لوکیشن عکاسی در تهران (پارک جنگلی شیان) با فضای باز، امکانات استودیویی برای تولد و عکس‌برداری حرفه‌ای"
+ },
+ {
+  "name": "کافه مراکشی آگادیر",
+  "category": "کافه",
+  "row": 325,
+  "location": "https://neshan.org/maps/places/9dacb0ca64d371802f388cff56061e5b",
+  "duration_h": 3,
+  "times": [
+   "عصر",
+   "شب"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "یک کافی‌شاپ-رستوران با فضای مراکشی، چای عربی، قلیان و منوی متنوع غذا در تهران"
+ },
+ {
+  "name": "کافه سون بی لانژ",
+  "category": "کافه",
+  "row": 326,
+  "location": "https://nshn.ir/_bvHQOPxitVR",
+  "duration_h": 3,
+  "times": [
+   "عصر",
+   "شب"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "یک کافی‌شاپ-رستوران با  قلیان و منوی متنوع غذا در تهران"
+ },
+ {
+  "name": "کلبه چوبی",
+  "category": "کافه",
+  "row": 327,
+  "location": "https://neshan.org/maps/places/ee3dfe85651a587029d53bf68f83382d#c35.713-51.432-17z-0p",
+  "duration_h": 3,
+  "times": [
+   "ظهر",
+   "عصر"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "یک کافه‌ـ‌رستوران با فضای چوبی دنج، منوی قهوه، غذا، قلیان و گزینه‌­های جشن و رزرو برنامه‌ها"
+ },
+ {
+  "name": "آورین لانژ",
+  "category": "کافه",
+  "row": 328,
+  "location": "https://nshn.ir/19_bvP1gGxOwDM",
+  "duration_h": 3,
+  "times": [
+   "عصر",
+   "شب"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "موسیقی زنده، طراحی جذاب، فضای لوژ / لانژ"
+ },
+ {
+  "name": "کیدل",
+  "category": "کافه",
+  "row": 329,
+  "location": "https://nshn.ir/1f_bvfxNpxiGz8",
+  "duration_h": 3,
+  "times": [
+   "صبح",
+   "عصر"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "مناسب صبحونه فضای باز"
+ },
+ {
+  "name": "رولینجا",
+  "category": "کافه",
+  "row": 330,
+  "location": "https://neshan.org/maps/places/f67dfdda76660c8fb90d86090111fab0?utm_source=chatgpt.com",
+  "duration_h": 6,
+  "times": [
+   "ظهر",
+   "عصر"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "رستوران مدرن با چشم‌انداز زیبا به دریاچه چیتگر، واقع در مجتمع بام‌لند تهران"
+ },
+ {
+  "name": "مادام موسیو",
+  "category": "کافه",
+  "row": 331,
+  "location": "https://nshn.ir/2e_bvgDvpxiSpn",
+  "duration_h": 3,
+  "times": [
+   "ظهر",
+   "عصر"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "فضای قدیمی"
+ },
+ {
+  "name": "گیم فکرکده",
+  "category": "بازی",
+  "row": 332,
+  "location": "https://nshn.ir/6a_bv_4l2xTTGi",
+  "duration_h": 6,
+  "times": [
+   "ظهر",
+   "عصر"
+  ],
+  "modes": [
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "کافه‑بازی بزرگ با بازی رومیزی، PS4/PS5، اتاق مافیا و فضای سینمای ورزشی در تهرانپارس"
+ },
+ {
+  "name": "برد بازی",
+  "category": "کافه",
+  "row": 333,
+  "location": "https://neshan.org/maps/places/c3193b2d8c4bea238486ba516318ef8e#c35.724-51.438-16z-0p",
+  "duration_h": 3,
+  "times": [
+   "عصر",
+   "شب"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "یکی از کافه‌های تخصصی بردگیم در تهران با میزهای بازی رومیزی، فضای دوستانه و منوی نوشیدنی و اسنک"
+ },
+ {
+  "name": "دف",
+  "category": "کافه",
+  "row": 334,
+  "location": "https://nshn.ir/e3_bvX87IxiIkC",
+  "duration_h": 3,
+  "times": [
+   "ظهر",
+   "عصر"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "فضای سنتی"
+ },
+ {
+  "name": "هتریک",
+  "category": "شهری",
+  "row": 335,
+  "location": "https://nshn.ir/75_bvXbjIxOIJo",
+  "duration_h": 3,
+  "times": [
+   "عصر",
+   "شب"
+  ],
+  "modes": [
+   "solo",
+   "partner",
+   "group"
+  ],
+  "guess_modes": true,
+  "city": "تهران",
+  "description": "تماشای فوتبال و قلیون"
+ }
+]
